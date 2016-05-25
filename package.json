@@ -1,0 +1,32 @@
+{
+  "name": "eslint-plugin-moment-utc",
+  "version": "0.0.1",
+  "description": "ESLint pluging to prevent usage of local time with moment.js.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "despairblue",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~2.6.0",
+    "mocha": "2.4.5",
+    "semantic-release": "^4.3.5"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wunderflats/eslint-plugin-moment-utc.git"
+  }
+}
