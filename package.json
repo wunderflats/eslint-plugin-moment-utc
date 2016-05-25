@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-moment-utc",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ESLint pluging to prevent usage of local time with moment.js.",
   "keywords": [
     "eslint",
