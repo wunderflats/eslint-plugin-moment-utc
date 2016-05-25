@@ -1,5 +1,7 @@
 # eslint-plugin-moment-utc
 
+[![Travis Build](http://img.shields.io/travis/wunderflats/eslint-plugin-moment-utc.svg?style=flat)](https://travis-ci.org/wunderflats/eslint-plugin-moment-utc) [![npm](https://img.shields.io/npm/dm/eslint-plugin-moment-utc.svg)](https://www.npmjs.com/package/eslint-plugin-moment-utc)
+
 This is an ESLint plugin to prevent the usage of localtime.
 
 ## Installation
